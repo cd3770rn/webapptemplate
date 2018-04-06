@@ -13,6 +13,7 @@ import java.util.List;
 @Controller
 public class WebapptemplatescorrectversionApplication {
 
+    // Set up home page
 	@RequestMapping("/")
 	public String home(Model model) {
 	    List favoriteFoods = Arrays.asList("pizza", "tacos", "hamburgers");
