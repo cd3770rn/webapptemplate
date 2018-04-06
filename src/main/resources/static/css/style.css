@@ -1,0 +1,9 @@
+body {
+    background: #f1f1f1;
+    color: darkorange;
+}
+
+h1, h2, span {
+    color: #1a1a1a;
+    text-shadow: 0px 1px 1px darkorange;
+}
